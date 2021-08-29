@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there. I'm Karan 👋
 
-<!--
-**karanoberoi28/karanoberoi28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💥 I love math, statistics, programming, and data science.
+- 🏢 I am currently working in the physics-based/Causal AI domain in the Aviation Industry
+- ✈️ Solving complex Aviation Industry problems is so much fun
 
-Here are some ideas to get you started:
+- Connect with me on:
+  - :office: [LinkedIn](https://www.linkedin.com/in/karan-oberoi-87b75318/)
+  - :books: [Medium](https://medium.com/@karanoberoi28)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Check out my latest articles
+- [Linked List](https://medium.com/analytics-vidhya/linked-list-for-data-scientists-c0a02a3b1f7b)
+- [Pringles or Hyperbolic Paraboloid](https://karanoberoi28.medium.com/pringles-or-a-hyperbolic-paraboloid-1e0a667d9315)
